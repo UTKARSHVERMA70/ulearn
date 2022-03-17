@@ -51,7 +51,8 @@ body{
 
 
 .box2{
-    overflow: auto;
+    overflow: hidden;
+    margin-bottom: 20px;
 }
 .box2 button{
     background-color: #48C9B0;
@@ -80,3 +81,35 @@ body{
 
 
 }
+
+
+/* White Background started */
+.whiteback{
+    background-color: white;
+    padding-top: 1px;
+}
+
+
+/* White Background started */
+
+
+
+
+
+/*  Box beding 1st video  */
+.box3{
+    background-color: #f4064b;
+    max-width: 300px;
+    height: 320px;
+    border-radius: 5px;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 10px;
+    align-items: baseline;
+    margin-top: 80px;
+
+}
+
+/*  Box beding 1st video  */
+
+
